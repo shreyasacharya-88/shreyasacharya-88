@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Shreyas 👋
 
-<!--
-**shreyasacharya-88/shreyasacharya-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Third-Year BCA student passionate about programming, software development, and learning new technologies.
 
-Here are some ideas to get you started:
+💻 I am interested in Java, Python, Web Development, and problem-solving. I enjoy building projects, improving my programming skills, and understanding core computer science concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 I am interested in Full Stack Development and continuously working on my knowledge of frontend and backend technologies.
+
+# 🛠 Technical Skills
+
+**Programming Languages:** Java, Python, C, JavaScript
+
+**Core Concepts:** Data Structures, Algorithms, Object-Oriented Programming, Problem Solving
+
+**Web Technologies:** HTML, CSS, JavaScript
+
+**Database:** MongoDB, MySQL
+
+**Tools & Technologies:** Git, GitHub, Visual Studio Code
+
+# 🚀 Projects
+
+# 📚 Currently Learning
+
+- Advanced Java
+- Data Structures & Algorithms
+- Full Stack Web Development
+- Backend Development
+- Database Management
+- Software Development Practices
+
+# 🎯 Career Goal
+
+To become a skilled Software Engineer and Full Stack Developer with strong programming fundamentals, problem-solving abilities, and practical development experience.
+
+# 🔗 Connect With Me
+
+- [GitHub](https://github.com/shreyasacharya-88)
+- [LinkedIn](https://www.linkedin.com/in/shreyas-acharya-ab022a359/)
+
+---
+
+⭐ Always learning, building, and improving.
