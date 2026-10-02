@@ -174,92 +174,6 @@ A simple Arduino-based rain detection system using a rain sensor, LED and buzzer
 
 A business analytics project designed to analyze sales data and visualize important business performance indicators.
 
-### 📈 Dashboard Features
-
-- 💰 Total Sales
-- 📊 Total Profit
-- 🛒 Total Orders
-- 📦 Total Quantity
-- 📈 Monthly Sales Trend
-- 📂 Sales by Category
-- 🌎 Sales by Region
-- 🏆 Top 10 Products
-- 📅 Interactive Date Filter
-- 📂 Interactive Category Filter
-- 🌎 Interactive Region Filter
-
-### 🗄️ SQL Analysis
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Quantity
-- Sales by Category
-- Sales by Region
-- Top 10 Products
-- Profit by Category
-- Monthly Sales Trend
-
-### 🛠️ Technologies
-
-`Excel` `CSV` `SQL` `MySQL` `Power BI` `Data Analysis`
-
-<p>
-<a href="YOUR_SALES_PROJECT_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/🔗%20View%20Project-Repository-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7971E&center=true&vCenter=true&width=650&lines=Currently+Learning...;Advanced+Java;Data+Structures+%26+Algorithms;Full+Stack+Web+Development;Backend+Development;Database+Management;Software+Development+Practices"/>
-</p>
-
-### 🔥 Focus Areas
-
-- ☕ Advanced Java
-- 🧠 Data Structures & Algorithms
-- 🌐 Full Stack Web Development
-- ⚙️ Backend Development
-- 🗄️ Database Management
-- 🧩 Software Development Practices
-
----
-
-# 🎯 Career Goal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Goal-Software%20Engineer-36BCF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-Full%20Stack%20Developer-8A2BE2?style=for-the-badge"/>
-</p>
-
-My goal is to become a **skilled Software Engineer and Full Stack Developer** with strong programming fundamentals, problem-solving abilities, and practical development experience.
-
-I am continuously working on projects and learning new technologies to build real-world applications.
-
----
-
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasacharya-88&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-
-🗄️ Database:
-MongoDB | MySQL
-
-🧰 Tools:
-Git | GitHub | Visual Studio Code
-
-📊 Analytics:
-Excel | SQL | MySQL | Power BI
 
 🎓 I am a Third-Year BCA student passionate about programming, software development, and learning new technologies.
 
@@ -279,28 +193,9 @@ Excel | SQL | MySQL | Power BI
 
 **Tools & Technologies:** Git, GitHub, Visual Studio Code
 
-# 🚀 Projects
 
-## 🌧️ Arduino Rain Detection System
 
-A simple Arduino-based rain detection system using a rain sensor, LED, and buzzer.
 
-**Components:**
-- Arduino Uno
-- Rain Sensor Module
-- Buzzer
-- LED
-- 220Ω Resistor
-- Breadboard
-- Jumper Wires
-
-**Features:**
-- Detects rain using a rain sensor
-- Automatically turns ON the LED and buzzer when rain is detected
-- Alarm automatically turns OFF after 10 seconds
-- Resets when the sensor becomes dry
-
-**Technologies:** Arduino, C/C++
 
 🔗 [Project Repository](https://github.com/shreyasacharya-88/Arduino-Rain-Detection-System)
 # 📚 Currently Learning
