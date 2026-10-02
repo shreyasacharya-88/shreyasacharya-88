@@ -242,22 +242,6 @@ I am continuously working on projects and learning new technologies to build rea
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasacharya-88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasacharya-88&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyasacharya-88&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 📈 Contribution Activity
 
@@ -267,19 +251,6 @@ I am continuously working on projects and learning new technologies to build rea
 
 ---
 
-# 💼 Resume Highlights
-
-
-🎓 Third-Year BCA Student
-
-💻 Programming:
-Java | Python | C | JavaScript
-
-🧠 Core:
-DSA | Algorithms | OOP | Problem Solving
-
-🌐 Web:
-HTML | CSS | JavaScript
 
 🗄️ Database:
 MongoDB | MySQL
