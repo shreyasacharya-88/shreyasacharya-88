@@ -105,7 +105,7 @@ An Arduino-based smart rain detection system that detects rainfall using a rain 
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Currently+Learning...;☕+Advanced+Java;🧠+Data+Structures+%26+Algorithms;🌐+Full+Stack+Web+Development;⚙️+Backend+Development;🗄️+Database+Management;💻+Software+Development+Practices" alt="Currently Learning" />
+  <img font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Currently+Learning...;☕+Advanced+Java;🧠+Data+Structures+%26+Algorithms;🌐+Full+Stack+Web+Development;⚙️+Backend+Development;🗄️+Database+Management;💻+Software+Development+Practices" alt="Currently Learning" />
 </p>
 
 <p align="center">
