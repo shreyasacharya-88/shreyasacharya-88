@@ -1,6 +1,10 @@
 <h1 align="center">
-  👋 Hi, I'm Shreyas
+  👋 Hi, I'm <span style="color:#36BCF7;">Shreyas</span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=800&center=true&vCenter=true&width=650&lines=💻+BCA+Student;🚀+Future+Software+Engineer;🌐+Full+Stack+Developer;☕+Java+%7C+Python+%7C+JavaScript;🧠+Learning+%7C+Building+%7C+Improving" />
+</p>
 
 
 <p align="center">
