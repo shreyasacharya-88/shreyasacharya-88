@@ -112,10 +112,11 @@ To become a skilled Software Engineer and Full Stack Developer with strong progr
 - [LinkedIn](https://www.linkedin.com/in/shreyas-acharya-ab022a359/)
 
 ---
+```text
 
 ⭐ Always learning, building, and improving.
 
-```text
+
 # Hi, I'm Shreyas 👋
 
 🎓 I am a Third-Year BCA student passionate about programming, software development, and learning new technologies.
