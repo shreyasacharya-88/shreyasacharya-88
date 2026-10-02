@@ -19,10 +19,31 @@
 **Tools & Technologies:** Git, GitHub, Visual Studio Code
 
 
+# 🚀 Projects
 
+## 🌧️ Arduino Rain Detection System
 
+A simple Arduino-based rain detection system using a rain sensor, LED, and buzzer.
+
+**Components:**
+- Arduino Uno
+- Rain Sensor Module
+- Buzzer
+- LED
+- 220Ω Resistor
+- Breadboard
+- Jumper Wires
+
+**Features:**
+- Detects rain using a rain sensor
+- Automatically turns ON the LED and buzzer when rain is detected
+- Alarm automatically turns OFF after 10 seconds
+- Resets when the sensor becomes dry
+
+**Technologies:** Arduino, C/C++
 
 🔗 [Project Repository](https://github.com/shreyasacharya-88/Arduino-Rain-Detection-System)
+
 # 📚 Currently Learning
 
 - Advanced Java
