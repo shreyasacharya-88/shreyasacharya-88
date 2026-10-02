@@ -67,6 +67,61 @@
 </p>
 
 ---
+<!-- ==================== PROJECTS ==================== -->
+
+# 🚀 Projects
+
+## 🌧️ Arduino Rain Detection System
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Arduino+%7C+Rain+Sensor+%7C+Automation;Smart+Rain+Detection+System;Hardware+%2B+Embedded+Programming" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20System-Project-orange?style=for-the-badge"/>
+</p>
+
+> 💡 A simple and practical **Arduino-based rain detection system** that automatically detects rain and activates an LED and buzzer.
+
+### ⚙️ Components
+
+| 🔧 Component | 📌 Purpose |
+|---|---|
+| 🔵 Arduino Uno | Main controller |
+| 🌧️ Rain Sensor Module | Detects rain |
+| 🔊 Buzzer | Rain alert |
+| 💡 LED | Visual indication |
+| 🔩 220Ω Resistor | LED protection |
+| 🧱 Breadboard | Circuit assembly |
+| 🔌 Jumper Wires | Connections |
+
+### ✨ Features
+
+- 🌧️ Detects rain using a rain sensor
+- 💡 Automatically turns **ON the LED**
+- 🔊 Automatically turns **ON the buzzer**
+- ⏱️ Alarm automatically turns **OFF after 10 seconds**
+- 🔄 Resets automatically when the sensor becomes dry
+- 📟 Sensor readings can be monitored through Serial Monitor
+
+### 🧠 Working Flow
+
+
+🌧️ Rain Detected
+       ↓
+📡 Rain Sensor Reads Data
+       ↓
+🤖 Arduino Processes Sensor Value
+       ↓
+💡 LED + 🔊 Buzzer ON
+       ↓
+⏱️ 10 Second Alarm
+       ↓
+🔇 Alarm OFF
+       ↓
+☀️ Sensor
 
 # 🚀 Projects
 
