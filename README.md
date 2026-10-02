@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Shreyas
+<h1 align="center">
+  👋 Hi, I'm Shreyas
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Third-Year+BCA+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Learn+%7C+Build+%7C+Innovate+%7C+Grow" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Third-Year+BCA+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Always+Learning+%7C+Building+%7C+Improving" alt="Typing Animation" />
