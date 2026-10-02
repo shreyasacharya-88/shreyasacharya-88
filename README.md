@@ -20,6 +20,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Programming+%7C+Development+%7C+Problem+Solving;Exploring+Full+Stack+Development;Building+Practical+Projects;Always+Learning+Something+New+✨" />
 </p>
 
+## 🎓who I Am
+
 🎓 **Third-Year BCA Student** passionate about programming, software development, and emerging technologies.
 
 💻 Interested in **Java, Python, Web Development, and Problem Solving**.
