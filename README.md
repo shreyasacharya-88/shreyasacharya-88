@@ -18,8 +18,19 @@
 </p>
 
 ---
-
 ## 🚀 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Third-Year+BCA+Student;Java+%7C+Python+%7C+Web+Development;Full+Stack+Development+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <i>Passionate about programming, software development & emerging technologies.</i>
+</p>
+
+---
+
+### 🎓 Who I Am
 
 🎓 **Third-Year BCA Student** passionate about programming, software development, and emerging technologies.
 
@@ -29,9 +40,22 @@
 
 🧠 Focused on strengthening **Data Structures, Algorithms, Object-Oriented Programming, and Core Computer Science concepts**.
 
-🛠️ I enjoy building practical projects and continuously improving my development skills.
+🛠️ I enjoy building **practical projects** and continuously improving my development skills.
 
 ---
+
+### ⚡ My Learning Journey
+
+<p align="center">
+
+`💡 Learn` → `🛠️ Build` → `🧪 Practice` → `🚀 Improve`
+
+</p>
+
+<p align="center">
+  <b>✨ Turning ideas into projects and projects into skills. ✨</b>
+</p>
+
 
 ## 🛠️ Technical Skills
 
