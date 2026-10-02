@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-type=waving&height=220&color=gradient&text=Hi,%20I'm%20Shreyas%20👋&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi,%20I'm%20Shreyas%20👋&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 </p>
 
 <p align="center">
