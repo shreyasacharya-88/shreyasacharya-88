@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Shreyas
+<!-- ===================== HEADER ===================== -->
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi,%20I'm%20Shreyas%20👋&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=800&center=true&vCenter=true&width=650&lines=💻+BCA+Student;🚀+Future+Software+Engineer;🌐+Full+Stack+Developer;☕+Java+%7C+Python+%7C+JavaScript;🧠+Learning+%7C+Building+%7C+Improving" />
