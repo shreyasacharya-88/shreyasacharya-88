@@ -104,12 +104,21 @@ An Arduino-based smart rain detection system that detects rainfall using a rain 
 
 ## 📚 Currently Learning
 
-Advanced Java                 █████████░░  Learning
-Data Structures & Algorithms  ████████░░░  Learning
-Full Stack Development        ███████░░░░  Learning
-Backend Development           ███████░░░░  Learning
-Database Management           ████████░░░  Learning
-Software Development          ███████░░░░  Learning
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Currently+Learning...;☕+Advanced+Java;🧠+Data+Structures+%26+Algorithms;🌐+Full+Stack+Web+Development;⚙️+Backend+Development;🗄️+Database+Management;💻+Software+Development+Practices" alt="Currently Learning" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/☕_Advanced_Java-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_DSA-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Full_Stack-181717?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️_Backend-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🗄️_Database-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Software_Practices-181717?style=for-the-badge" />
+</p>
 
 # 🎯 Career Goal
 
