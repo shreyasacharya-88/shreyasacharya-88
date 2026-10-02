@@ -1,6 +1,12 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#36BCF7;">Shreyas</span>
-</h1>
+# 👋 Hi, I'm Shreyas
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Third-Year+BCA+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Always+Learning+%7C+Building+%7C+Improving" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyasacharya-88&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2000&pause=800&center=true&vCenter=true&width=650&lines=💻+BCA+Student;🚀+Future+Software+Engineer;🌐+Full+Stack+Developer;☕+Java+%7C+Python+%7C+JavaScript;🧠+Learning+%7C+Building+%7C+Improving" />
