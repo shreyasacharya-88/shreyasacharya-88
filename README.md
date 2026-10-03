@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FFFFFF&text=Hi,%30I'm%20Shreyas%30👋&fontSize=46&fontAlignY=35&animation=fadeIn&fontColor=#172554"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FFFFFF&text=Hi,%20I'm%20Shreyas%20👋&fontSize=46&fontAlignY=35&animation=fadeIn&fontColor=1E293B"
     width="100%"
   />
 </p>
