@@ -302,6 +302,8 @@ and practical development experience.
 
 &nbsp;&nbsp;
 
+<p align="center">
+
 <a href="https://www.linkedin.com/in/shreyas-acharya-ab022a359/">
 
 <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF&color=0A66C2"/>
