@@ -57,57 +57,13 @@
 
 <p align="center">
 
-<table>
-<tr>
-
-<td align="center" width="180">
-
-### 💡
-### Learn
-
-</td>
-
-<td align="center" width="60">
-
-➡️
-
-</td>
-
-<td align="center" width="180">
-
-### 🛠️
-### Build
-
-</td>
-
-<td align="center" width="60">
-
-➡️
-
-</td>
-
-<td align="center" width="180">
-
-### 🧪
-### Practice
-
-</td>
-
-<td align="center" width="60">
-
-➡️
-
-</td>
-
-<td align="center" width="180">
-
-### 🚀
-### Improve
-
-</td>
-
-</tr>
-</table>
+**💡 Learn**  
+↓  
+**🛠️ Build**  
+↓  
+**🧪 Practice**  
+↓  
+**🚀 Improve**
 
 </p>
 
