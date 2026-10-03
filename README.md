@@ -1,6 +1,56 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=EAF4FF&text=Hi,%20I'm%20Shreyas%20👋&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=1E3A5F"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Third-Year+BCA+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Learn+%7C+Build+%7C+Improve+🚀"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyasacharya-88&label=Profile%20Views&color=2563EB&style=flat-square"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Programming+%7C+Development+%7C+Problem+Solving;Exploring+Full+Stack+Development;Building+Practical+Projects;Learning+Something+New+Every+Day+✨"/>
+</p>
+
+### 🎓 Who I Am
+
+🎓 **Third-Year BCA Student** passionate about programming, software development, and emerging technologies.
+
+💻 Interested in **Java, Python, Web Development, and Problem Solving**.
+
+🌐 Exploring **Full Stack Development**, including frontend, backend, databases, and software development practices.
+
+🧠 Strengthening my knowledge of **Data Structures, Algorithms, OOP, and Core Computer Science**.
+
+🛠️ I enjoy building **practical projects** and continuously improving my development skills.
+
+---
+
+## ⚡ My Learning Journey
+
+<p align="center">
+
+| 💡 Learn | 🛠️ Build | 🧪 Practice | 🚀 Improve |
+|:---:|:---:|:---:|:---:|
+| 📚 | 💻 | 🧠 | 🌟 |
+
+</p>
+
+<p align="center">
+  <i>✨ Turning ideas into projects and projects into skills. ✨
+
+
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=EAF4FF&text=Hi,%20I'm%20Shreyas%20👋&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=1F2937"/>
 </p>
 
